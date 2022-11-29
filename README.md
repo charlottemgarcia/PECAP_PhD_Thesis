@@ -1,6 +1,7 @@
 # PECAP_PhD_Thesis
 Database containing python and MATLAB scripts for collecting Electrically-Evoked Compound Action Potentials 
   relevant for the Panoramic ECAP ("PECAP") Method as described in Charlotte Garcia's Ph.D. Dissertation.
+  The dissertation can be found at the following location: https://doi.org/10.17863/CAM.89113.
 
 Appendix B of the PECAP PhD Thesis describes the procedures for collecting PECAP data that was followed for 
   the purposes of the various studies described in the thesis.
